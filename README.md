@@ -1,9 +1,9 @@
 # 안녕하세요! 배움을 멈추지 않는 개발자 박준우입니다.  👋
 
-- 안녕하세요! 저는 주로 DevOps와 백엔드 개발 분야에 중점을 두고 있는 개발자입니다. 
-- Node.js와 TypeScript, NestJS를 활용하여 서버 사이드 개발을 하며, Python을 통해 데이터 처리와 분석에도 관심을 가지고 있습니다.
-- 개발자 경험(DX) 향상에 큰 관심을 가지고 있으며, 효율적이고 가독성 있는 코드를 작성하는 것을 목표로 삼고 있습니다. 
--  다양한 도구와 기술을 활용하여 지속적인 학습을 추구하며, 팀 내 소통과 협업에 항상 노력하고 있습니다.
+- 안녕하세요! 저는 주로 DevOps와 백엔드 개발 분야에 관심을 가지고 있습니다.
+- Node.js와 TypeScript, NestJS를 활용하여 서버 사이드 개발을 합니다.
+- 개발자 경험(DX) 향상에 큰 관심을 가지고 있으며, 효율적이고 가독성 있는 코드를 작성하는 것을 목표로 삼고 있습니다.
+- 다양한 도구와 기술을 활용하여 지속적인 학습을 추구하며, 팀 내 소통과 협업에 항상 노력하고 있습니다.
 - 새로운 도전을 즐기며 지속적인 성장과 협업을 추구하고 있습니다. 함께 발전하며 더 나은 개발자로 성장하기 위해 노력하고 있습니다. 🚀
 
 
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ### 데이터베이스
