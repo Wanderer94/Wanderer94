@@ -15,7 +15,6 @@
 </a>
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderer94&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer94&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 기술스택
 ### Languages
@@ -39,4 +38,6 @@
   <img height="30" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer94&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
