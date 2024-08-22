@@ -40,4 +40,5 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer94&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsdn1994)](https://solved.ac/wnsdn1994)
 
