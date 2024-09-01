@@ -38,10 +38,8 @@
   <img height="30" src="https://img.shields.io/badge/Githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </div>
 
+----------
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer94&theme=tokyonight&layout=compact">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer94&theme=tokyonight&layout=compact" />
-  </a>
   <a href="http://mazassumnida.wtf/api/generate_badge?boj=wnsdn1994">
     <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=wnsdn1994" />
   </a>
