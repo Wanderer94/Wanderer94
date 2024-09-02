@@ -11,7 +11,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wanderer94&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanderer94&layout=compact&langs_count=8&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanderer94&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=BAEKJOON,BRIQUE_codingtest" />
   </a>
 </div>
 
